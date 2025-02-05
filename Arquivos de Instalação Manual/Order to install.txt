@@ -1,0 +1,6 @@
+Python 3.12
+Pip Install 
+Chrome Standlone
+Regedit
+tasy.txt
+tasy.py

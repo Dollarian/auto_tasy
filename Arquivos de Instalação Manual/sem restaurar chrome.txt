@@ -1,0 +1,9 @@
+C:\Users\paineltasy\AppData\Local\Google\Chrome\User Data\Defaul
+
+arquivo "preference", editar no bloco de notas
+
+ctrl+f
+
+exit_type
+
+substituir "crashed" para "none"

@@ -1,0 +1,8 @@
+C:\Users\paineltasy\AppData\Local\Programs\Python\Python312
+
+abrir cmd dentro do pyhton e inserir os comandos abaixo
+
+pip install selenium
+pip install selenium undetected-chromedriver selenium-stealth
+pip install setuptools
+

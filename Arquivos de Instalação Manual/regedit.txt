@@ -1,0 +1,9 @@
+Computador\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon
+
+Definir "AutoAdminLogon" com o valor "1"
+Definir "DefaultUserName", usuário para inicialização do Windows
+Definir "DefaultPassword" com a senha do usuário de inicialização
+
+Caso não haja algum dos três campos, criar um novo "Valor da Cadeia de Caracteres"
+
+Após definir os valores, reiniciar o computador e verificar se foi salvo, caso contrário, refazer o processo.
