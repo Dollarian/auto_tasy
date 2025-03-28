@@ -42,8 +42,8 @@ variables = [
 ]
 
 # Defina o usuário e senha diretamente no código
-username = "usr_spaa"  # Substitua com o seu nome de usuário
-password = "hospital@123"  # Substitua com a sua senha
+username = "usuario"  # Substitua com o seu nome de usuário
+password = "senha"  # Substitua com a sua senha
 
 # Configuração do stealth para evitar detecção
 stealth(driver,
